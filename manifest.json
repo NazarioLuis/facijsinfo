@@ -1,0 +1,12 @@
+{
+  "name": "Cartelera TV",
+  "short_name": "Cartelera",
+  "description": "Cartelera digital de imágenes y videos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": []
+}
